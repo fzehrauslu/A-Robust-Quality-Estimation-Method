@@ -1,6 +1,6 @@
 # A robust quality estimation method for medical image segmentation with small datasets.
 
-This code implements the methods described in the paper titled with 'A robust quality estimation method for medical image segmentation with small datasets'. Please cite tha paper with
+This code implements the methods described in the paper titled with 'A robust quality estimation method for medical image segmentation with small datasets'. Please, don't hesitate to send a query to fatmatulzehra.uslu@btu.edu.tr, related to the code. Please cite tha paper with
 @article{uslu2024robust,
   title={A robust quality estimation method for medical image segmentation with small datasets},
   author={Uslu, Fatmat{\"u}lzehra and Varela, Marta},
